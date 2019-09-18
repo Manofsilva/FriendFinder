@@ -17,7 +17,7 @@ app.use(express.json());
 
 // import the function in the htmlRoutes.js and immediately invoke it and pass in the express app object
 require('./routing/htmlRoutes.js')(app);
-require('./routing/apiRoutes.js')(app);
+// require('./routing/apiRoutes.js')(app);
 
 // use the express app to start the server
 app.listen(PORT, function(){
