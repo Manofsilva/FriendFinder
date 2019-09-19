@@ -22,6 +22,8 @@ app.get("/api/friends", function(req, res) {
 
 // API POST Requests
 // Handles when user submits friend form.
+// his will be used to handle incoming survey results. 
+// This route will also be used to handle the compatibility logic.
 // Compares user to existing users to find best friend.
 // ---------------------------------------------------------------------------
 
