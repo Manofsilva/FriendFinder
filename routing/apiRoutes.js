@@ -1,6 +1,6 @@
 // LOAD DATA
 // We are linking our routes to a series of "data" sources.
-// These data sources hold arrays of information on table-data, waitinglist, etc.
+// These data sources hold arrays of information.
 // ===============================================================================
 
 var userData = require("../data/friends");
@@ -31,5 +31,5 @@ app.get("/api/friends", function(req, res) {
 
     // Store current user scores in array.
     var currentUserScores = req.body.scores;
-
+  })
 }
