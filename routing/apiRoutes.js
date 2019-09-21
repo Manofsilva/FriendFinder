@@ -3,7 +3,7 @@
 // These data sources hold arrays of information.
 // ===============================================================================
 
-var userData = require("../../app/data/friends");
+var userData = require("../data/friends");
 
 // ===============================================================================
 // ROUTING
