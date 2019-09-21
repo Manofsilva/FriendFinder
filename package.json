@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Manofsilva/FriendFinder#readme",
   "dependencies": {
+    "chosen": "0.0.2",
     "express": "^4.17.1"
   }
 }
