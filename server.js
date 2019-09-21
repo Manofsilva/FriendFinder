@@ -1,5 +1,6 @@
-// import express so that we can utilize the framework for all of our server needs
+// import packages so that we can utilize the framework for all of our server needs
 var express = require('express');
+var path = require('path');
 
 // Create an instance of an express application so that we can use the mryiad of methods that comes with the web framework
 var app = express();
