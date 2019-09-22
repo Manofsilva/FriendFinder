@@ -5,7 +5,7 @@ var userData = [
       "name": "Ahmed",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdEUTYt_BzMCpis4FtXlzMwGBdD1RDP3z0MOfanNhnX8nhiLMFYA",
       "scores":[
-          5,
+            5,
             1,
             4,
             4,
