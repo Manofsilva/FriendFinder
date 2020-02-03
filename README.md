@@ -21,4 +21,8 @@ To use this ``full-stack`` web service, simply go to our homepage and take the s
 * Best match is calculated by finding the friend with the minimal difference in scores and then sending that friend to the browser as a JSON object
 * A modal is then toggled, displaying the the best match to the person who just took the survey
 
-This ```full-stack``` application is hosted on heroku here: 
+This ```full-stack``` application is hosted on heroku here: https://glacial-island-14650.herokuapp.com/
+
+### Demonstration
+
+![gif](Friends.gif)
